@@ -61,7 +61,7 @@ sudo chmod -R 755 /var/www/
         "settings.json",
         "web.config"],
     "gitwords":"password",
-    "domains": ".com,
+    "domains": ".com",
     "gitauth": "ghp_XXXXXXXM5ZhK",
     "gitpages": "3"
     }    
