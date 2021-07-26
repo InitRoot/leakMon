@@ -1,13 +1,15 @@
 # leakMonitor
 Monitors leaked data. Framework to be built on.
+
+##  Disclaimer
+I take not responsibility for your use of the software. Development is done in my personal capacity and carry no affiliation to my work.
+
 ### Outline
 
 The app has a script that should run periodically (daily atm) to search for potential credential leaks. At the moment Github and Google searches are included. Don't expect much on the code, it's very basic, especially the PHP (on which I'm very noob). The folder structure is outlined below:
 
 ![image](https://user-images.githubusercontent.com/954507/126834412-6862c526-28d2-4194-90c6-ef1f7d7c98b2.png)
 
-##  Disclaimer
-I take not responsibility for your use of the software. Development is done in my personal capacity and carry no affiliation to my work.
 
 ```jsx
 
